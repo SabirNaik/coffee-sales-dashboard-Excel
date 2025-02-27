@@ -16,9 +16,6 @@ This repository contains an **Excel-based Coffee Sales Dashboard** that provides
 - **Microsoft Excel** - Data visualization, pivot tables, and slicers.
 - **Power Query** - Data transformation and cleaning.
 
-## Dashboard Preview
-![Coffee Sales Dashboard](image.png)
-
 ## How to Use
 1. Download the `Coffee_Sales_Dashboard.xlsx` file.
 2. Open it in **Microsoft Excel** (2016 or later for best experience).
